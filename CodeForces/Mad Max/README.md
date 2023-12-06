@@ -24,7 +24,7 @@ Your task is to check whether Max can get to his destination by helping the hitc
 
 The first line contains three integers: 2≤n≤2000, 0≤m≤2000, and 0≤f≤10<sup>9</sup> — the number of posts, hitchhikers, and the initial amount of liters of gasoline that Max has.
 
-Next follow m lines. Line number i contains the description of the hitchhiker number i — integers 1≤ai≤n−1, 2≤bi≤n, 0≤ci≤10<sup>9</sup>, and 0≤fi≤10<sup>9</sup> being respectively the post number where the hitchhiker stands, their destination, and amounts of dog food in cans and gasoline in liters that they are willing to pay. It is guaranteed that ai<bi.
+Next follow m lines. Line number i contains the description of the hitchhiker number i — integers 1≤a<sub>i</sub>≤n−1, 2≤b<sub>i</sub>≤n, 0≤c<sub>i</sub>≤10<sup>9</sup>, and 0≤f<sub>i</sub>≤10<sup>9</sup> being respectively the post number where the hitchhiker stands, their destination, and amounts of dog food in cans and gasoline in liters that they are willing to pay. It is guaranteed that a<sub>i</sub><bi<sub>i</sub>.
 
 ## Output
 
@@ -35,10 +35,4 @@ It doesn't matter how much gas Max will have when he reaches Gas Town, as long a
 
 Keep in mind the possibility of integer overflow.
 
-In the first example, to get 4
- cans of dog food, Max expends all of his fuel to reach the post number 2
-, where he picks up the only hitchhiker standing there. They give Max 1
- liter of gasoline, which he expends to reach Gas Town where he drops the hitchhiker off. He could have instead picked up the hitchhiker at post 1
-, but then he would only earn 3
- cans since he wouldn't be able to pick up the hitchhiker at post 2
- since he cannot travel back.
+In the first example, to get 4 cans of dog food, Max expends all of his fuel to reach the post number 2, where he picks up the only hitchhiker standing there. They give Max 1 liter of gasoline, which he expends to reach Gas Town where he drops the hitchhiker off. He could have instead picked up the hitchhiker at post 1, but then he would only earn 3 cans since he wouldn't be able to pick up the hitchhiker at post 2 since he cannot travel back.
