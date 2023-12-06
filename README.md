@@ -8,7 +8,7 @@ This repository contains algorithmic problems and solutions. Explore the folders
 - **Input:** Posts, hitchhikers, initial fuel, and hitchhiker details.
 - **Output:** Max's ability to reach Gas Town and the maximum dog food earned.
 
-## [Snowy Roads](codeForces/Snowy Roads/) :snowflake:
+## [Snowy Roads](codeForces/) :snowflake:
 
 - **Description:** Gilbert needs help navigating snowy roads to reach work, avoiding heavy snowfall.
 - **Input:** Intersections, intact roads, house and work locations, road network details.
