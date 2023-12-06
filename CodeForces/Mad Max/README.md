@@ -1,4 +1,4 @@
-# Mad Max: Hitchhikers Road :red_car:
+# Mad Max: Hitchhikers Road :walking: :red_car:
 
 ## Problem Description
 
